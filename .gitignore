@@ -1,7 +1,13 @@
 myenv/
-__pycache__/
+venv/
 *.pyc
+__pycache__/
 db.sqlite3
 *.sqlite3
-images/
+media/
 static/images/
+staticfiles/
+*/migrations/*.py
+gitignore
+/migrations/__init__.py
+.DS_Store
