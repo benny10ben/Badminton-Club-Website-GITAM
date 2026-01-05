@@ -1,0 +1,30 @@
+# Python & Django junk
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+*.pot
+*.pyc
+*.pyd
+
+# Virtual Environment (Crucial to ignore)
+myenv/
+venv/
+env/
+
+# Database (Never push your local dev database!)
+db.sqlite3
+db.sqlite3-journal
+
+# Local environment settings
+.env
+.DS_Store
+
+static/images/
+
+# IDE Settings (VS Code)
+.vscode/
+
+# Vercel/Deployment
+.vercel/
+
