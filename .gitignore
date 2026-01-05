@@ -7,7 +7,5 @@ db.sqlite3
 media/
 static/images/
 staticfiles/
-*/migrations/*.py
-gitignore
 /migrations/__init__.py
 .DS_Store
